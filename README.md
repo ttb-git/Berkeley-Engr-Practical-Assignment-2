@@ -1,6 +1,6 @@
 # What drives the price of a car?
 
-### In this repository we have the follwoing three files:
+### In this repository we have the following three files:
 
 ##### Dealership Group Used Car Analysis Document as PDF
 
